@@ -35,10 +35,11 @@ That is it :)
 [12:14:43]  sass started ...
 [12:14:46]  sass finished in 3.82 s
 [12:14:46]  build dev finished in 21.51 s
-[12:14:47]  watch ready in 21.72 s
+[12:14:47]  watch ready in 21.72 s 
+
 [12:14:47]  dev server running: http://127.0.0.1:8104/
 
-6. Just see the results at http://127.0.0.1:8104/ . (or whatever port is indicated at the end)
-7. Check the code source at the app folder
+6. Just see the results at http://127.0.0.1:8104/ . (or whatever port is indicated at the end of the preview)
+7. Check and play with the code source at the app folder
 
 
